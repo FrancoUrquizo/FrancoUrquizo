@@ -22,40 +22,30 @@
 
 ---
 
+
 ## 👨‍💻 About Me
 
-\`\`\`javascript
-const franco = {
-  name: "Franco Urquizo Barba",
-  role: "Full Stack Developer",
-  location: "Buenos Aires, Argentina",
-  education: "ORT Almagro - Informatics",
+<div align="center">
 
-  experience: [
-    "Co-Founder & Frontend Developer @ SmartLot",
-    "Frontend Developer Intern @ RentOSO"
-  ],
+### Full Stack Developer & Informatics Student
 
-  interests: [
-    "Web Development",
-    "UI/UX Design",
-    "Software Engineering"
-  ],
+Passionate about building modern web applications,
+intuitive interfaces and meaningful digital experiences.
 
-  currentlyLearning: "Always something new"
-};
-\`\`\`
+<br>
 
-Soy estudiante de **Informática en ORT Almagro** y desarrollador **Full Stack**, con especial interés en crear aplicaciones modernas, funcionales y bien diseñadas.
+<img src="https://img.shields.io/badge/Co--Founder-SmartLot-2563EB?style=for-the-badge&labelColor=0F172A" alt="SmartLot"/>
+<img src="https://img.shields.io/badge/Frontend_Developer-RentOSO-7C3AED?style=for-the-badge&labelColor=0F172A" alt="RentOSO"/>
 
-Me enfoco en construir interfaces intuitivas, desarrollar soluciones eficientes y seguir creciendo en el mundo del software.
+<br><br>
 
-- 🚀 **Co-Founder de SmartLot**, participando en su desarrollo frontend.
-- 💼 **Frontend Developer en RentOSO** durante una práctica preprofesional.
-- 🎨 Apasionado por el desarrollo web, las interfaces modernas y el diseño UI/UX.
-- 📍 Buenos Aires, Argentina.
+<img src="https://img.shields.io/badge/Location-Buenos_Aires-1E293B?style=flat-square&logo=googlemaps&logoColor=38BDF8" alt="Location"/>
+<img src="https://img.shields.io/badge/Education-ORT_Almagro-1E293B?style=flat-square&logo=bookstack&logoColor=A78BFA" alt="Education"/>
+
+</div>
 
 ---
+
 
 ## ⚡ Tech Stack
 
