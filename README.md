@@ -1,27 +1,17 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=230&section=header&text=Franco%20Urquizo&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=37&desc=FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=19&descColor=e0e7ff" alt="Franco Urquizo"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=210&section=header&text=Franco%20Urquizo&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=37&desc=FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=18&descColor=e0e7ff" alt="Franco Urquizo"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=650&height=55&lines=Full+Stack+Developer;Co-Founder+%40+SmartLot;Frontend+Developer+%7C+RentOSO;Turning+ideas+into+code..." alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1100&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;Co-Founder+%40+SmartLot;Frontend+Developer+%7C+RentOSO;Building+modern+web+experiences" alt="Typing animation"/>
 
 <br>
 
-<a href="https://github.com/FrancoUrquizo">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="mailto:urquizobarbafranco@gmail.com">
-<img src="https://img.shields.io/badge/Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=FrancoUrquizo&style=flat-square&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=FrancoUrquizo&style=flat-square&color=2563eb&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
-
 
 ## 👨‍💻 About Me
 
@@ -46,32 +36,31 @@ intuitive interfaces and meaningful digital experiences.
 
 ---
 
-
 ## ⚡ Tech Stack
 
 <div align="center">
 
 ### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark&perline=6" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark&perline=6" alt="Frontend technologies"/>
 
 <br>
 
 ### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,cs,postgres&theme=dark&perline=4" alt="Backend"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,cs,postgres&theme=dark&perline=4" alt="Backend technologies"/>
 
 <br>
 
 ### Development Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker&theme=dark&perline=6" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker&theme=dark&perline=6" alt="Development tools"/>
 
 <br>
 
 <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
 <img src="https://img.shields.io/badge/Expo-1C2024?style=flat-square&logo=expo&logoColor=white" alt="Expo"/>
-<img src="https://img.shields.io/badge/REST_APIs-6366F1?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/REST_APIs-1E293B?style=flat-square&logo=fastapi&logoColor=38BDF8" alt="REST APIs"/>
 
 </div>
 
@@ -83,44 +72,43 @@ intuitive interfaces and meaningful digital experiences.
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🚀 SmartLot</h3>
+<h3 align="center">SmartLot</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Co--Founder-7C3AED?style=for-the-badge" alt="Co-Founder"/>
+<img src="https://img.shields.io/badge/Co--Founder-7C3AED?style=flat-square" alt="Co-Founder"/>
 </p>
 
 **Co-Founder & Frontend Developer**
 
-Participación en la creación y desarrollo de SmartLot, trabajando en el frontend, el diseño de interfaces y la experiencia de usuario.
+Participé en la creación y desarrollo de SmartLot, trabajando en interfaces web y experiencia de usuario.
 
-**Responsibilities**
-
-- Frontend Development
-- UI/UX Design
-- Interface Implementation
-- Team Collaboration
+**Responsabilidades**
+- Desarrollo frontend
+- Diseño de interfaces
+- UI/UX
+- Colaboración en equipo
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3 align="center">💻 RentOSO</h3>
+<h3 align="center">RentOSO</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Frontend_Intern-2563EB?style=for-the-badge" alt="Frontend Intern"/>
+<img src="https://img.shields.io/badge/Frontend_Intern-2563EB?style=flat-square" alt="Frontend Intern"/>
 </p>
 
-**Frontend Developer — Pre-professional Internship**
+**Frontend Developer — Práctica preprofesional**
 
-Experiencia práctica trabajando en un proyecto de software real, colaborando con un equipo de desarrollo.
+Experiencia en un equipo de desarrollo de software, colaborando en una aplicación web real.
 
-**Responsibilities**
-
-- React & TypeScript
-- Responsive Interfaces
-- Reusable Components
-- UI/UX Improvements
-- QA Fixes & Pull Requests
+**Responsabilidades**
+- React y TypeScript
+- Componentes reutilizables
+- Diseño responsive
+- Mejoras de UI/UX
+- Correcciones de QA
+- Git y Pull Requests
 
 </td>
 </tr>
@@ -134,7 +122,7 @@ Experiencia práctica trabajando en un proyecto de software real, colaborando co
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">📱 Instagram Clone</h3>
+<h3 align="center">Instagram Clone</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/FRONTEND-2563EB?style=flat-square" alt="Frontend"/>
@@ -144,34 +132,34 @@ Aplicación web inspirada en Instagram, desarrollada con React y Vite.
 
 **Tech Stack**
 
-\`React\` \`Vite\` \`CSS\`
+`React` `Vite` `CSS`
 
 <br>
 
 <a href="https://github.com/FrancoUrquizo/TP06-Clon-de-Instagram-EFSI">
-<img src="https://img.shields.io/badge/View_Repository-1E293B?style=for-the-badge&logo=github&logoColor=38bdf8" alt="Repository"/>
+<img src="https://img.shields.io/badge/View_Repository-161B22?style=for-the-badge&logo=github&logoColor=38bdf8" alt="Instagram Clone repository"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3 align="center">⚙️ Backend Architecture</h3>
+<h3 align="center">Backend Architecture</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/BACKEND-7C3AED?style=flat-square" alt="Backend"/>
 </p>
 
-Proyecto de exploración y práctica de arquitectura backend, utilizando Node.js y PostgreSQL.
+Proyecto de exploración de arquitectura backend utilizando Node.js y PostgreSQL.
 
 **Tech Stack**
 
-\`Node.js\` \`PostgreSQL\` \`JavaScript\`
+`Node.js` `PostgreSQL` `JavaScript`
 
 <br>
 
 <a href="https://github.com/FrancoUrquizo/arquitectura-sample-node-pg-IA-public">
-<img src="https://img.shields.io/badge/View_Repository-1E293B?style=for-the-badge&logo=github&logoColor=a78bfa" alt="Repository"/>
+<img src="https://img.shields.io/badge/View_Repository-161B22?style=for-the-badge&logo=github&logoColor=a78bfa" alt="Backend Architecture repository"/>
 </a>
 
 </td>
@@ -202,27 +190,36 @@ Proyecto de exploración y práctica de arquitectura backend, utilizando Node.js
 
 ---
 
-## 🌐 Let's Connect
+## 💬 Contact
 
 <div align="center">
 
-### Have an idea? Let's build something amazing.
+Open to collaborations, projects and new opportunities.
 
-I'm always interested in learning new technologies,
-collaborating on projects and creating digital solutions.
-
-<br>
-
-<a href="mailto:urquizobarbafranco@gmail.com">
-<img src="https://img.shields.io/badge/Send_me_an_Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<br><br>
 
 <a href="https://github.com/FrancoUrquizo">
-<img src="https://img.shields.io/badge/Follow_on_GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/franco-urquizo-barba-93b6a5400/">
+<img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:urquizobarbafranco@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/>
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:0f172a&height=120&section=footer" width="100%" alt="Footer"/>
+<sub>franco@github:~$ connect --now</sub>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:0f172a&height=110&section=footer" width="100%" alt="Footer"/>
 
 </div>
